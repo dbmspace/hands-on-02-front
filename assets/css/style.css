@@ -1,4 +1,4 @@
-﻿@import"https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&family=Source+Sans+Pro:wght@200;300;400&display=swap";/*!
+﻿@import"https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&family=Source+Sans+Pro:wght@200;300;400&display=swap";*{color:#343a40;font-family:"Roboto"}a{text-decoration:none !important}header{background:#ffc107;padding:25px}header form input[type=text]{background:#fff;width:100%;border-radius:100px;border:none;padding:10px 20px}header form button{background:none;border:none;position:relative;right:35px}header ul li{position:relative}header ul li span.notification{color:#fff;position:absolute;top:-10px;left:5px;background:#ff0f9a;font-size:10px;width:15px;height:15px;border-radius:100%;text-align:center}header ul li a{font-size:16px;color:#343a40}header ul li a svg{font-size:23px}header ul li a:hover{color:initial}/*!
 * Bootstrap  v5.2.3 (https://getbootstrap.com/)
 * Copyright 2011-2022 The Bootstrap Authors
 * Copyright 2011-2022 Twitter, Inc.

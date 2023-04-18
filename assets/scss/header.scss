@@ -1,0 +1,55 @@
+header {
+  background: $primary-color;
+  padding: 25px;
+
+  form {
+    input[type="text"] {
+      background: $white;
+      width: 100%;
+      border-radius: 100px;
+      border: none;
+      padding: 10px 20px;
+    }
+
+    button {
+      background: none;
+      border: none;
+      position: relative;
+      right: 35px;
+    }
+  }
+
+  ul {
+    li {
+      position: relative;
+
+      span.notification {
+        color: $white;
+        position: absolute;
+        top: -10px;
+        left: 5px;
+        background: $pink;
+
+        font-size: 10px;
+        width: 15px;
+        height: 15px;
+        border-radius: 100%;
+        text-align: center;
+      }
+
+      a {
+        font-size: 16px;
+        color: $secundary-color;
+
+        svg {
+          font-size: 23px;
+        }
+
+        &:hover {
+          color: initial;
+        }
+      }
+    }
+  }
+
+}
