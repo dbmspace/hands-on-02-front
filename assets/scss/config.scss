@@ -1,8 +1,21 @@
 body {
   color: $secundary-color;
-  font-family: 'Roboto';
+  // font-family: 'Roboto';
 }
 
 a {
   text-decoration: none !important;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: bold;
+  margin: 10px;
 }
