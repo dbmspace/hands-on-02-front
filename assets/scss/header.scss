@@ -26,15 +26,15 @@ header {
       span.notification {
         color: $white;
         position: absolute;
-        top: -10px;
+        top: -12px;
         left: 5px;
         background: $pink;
+
 
         font-size: 10px;
         width: 15px;
         height: 15px;
         border-radius: 100%;
-        text-align: center;
       }
 
       a {
